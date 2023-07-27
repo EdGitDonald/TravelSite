@@ -1,11 +1,11 @@
 import React from 'react'
 import './Homepage.css'
-import Banner from '../../Components/Banner/Banner'
+import DestinationCard from '../../Components/DestinationCard/DestinationCard'
 
 function Homepage() {
   return (
     <div>
-        <Banner />
+        <DestinationCard />
     </div>
   )
 }
